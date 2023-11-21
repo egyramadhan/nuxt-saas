@@ -34,7 +34,7 @@
     "@unlighthouse/nuxt": "^0.9.0",
     "eslint": "^8.45.0",
     "eslint-plugin-vue": "^9.15.1",
-    "flatted": "^3.2.7",
+    "flatted": "^3.2.9",
     "libphonenumber-js": "^1.10.37",
     "nuxt": "^3.6.3",
     "nuxt-security": "^0.13.0",
